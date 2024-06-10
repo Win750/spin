@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+oldapi.beeliked.com	TRUE	/	FALSE	1999999999	beeliked	nkv02pd57omfm259e422alu112
+oldapi.beeliked.com	TRUE	/	FALSE	1999999999	samesite	None
+
